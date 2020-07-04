@@ -1,0 +1,27 @@
+#parent {
+	width: 500px;
+	height:500px;
+	background: #ddd;
+	/*margin: # auto;*/
+	align-content: center;
+        
+
+}
+/*.img
+{
+	border: thin black solid;
+	display: inline-block;
+}
+#one{
+	border-color: solid red;
+	align-content: center;
+}
+#two{
+	
+	border-color: solid red;
+	align-content: center;
+}
+#img{
+	height:200px;
+	width:150px;
+}*/
